@@ -1,2 +1,2 @@
 # media-host
-Media files hosted for Workpress.com blogs
+Media files hosted for my Workpress.com blogs
